@@ -3,5 +3,5 @@ title: Julian Haro
 description: Portfolio
 plugins:
   - jemoji
-
+markdown: kramdown
 
