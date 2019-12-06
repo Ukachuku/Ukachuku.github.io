@@ -1,0 +1,7 @@
+theme: jekyll-theme-modernist
+title: Julian Haro
+description: Portfolio
+plugins:
+  - jemoji
+
+
