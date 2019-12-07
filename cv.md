@@ -1,5 +1,5 @@
 ---
-layout:default
+layout: default
 title: Modularity in LaTeX
 excerpt: blarg
 header:
