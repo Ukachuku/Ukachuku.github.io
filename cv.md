@@ -1,4 +1,6 @@
 ---
+layout:default
+---
 excerpt: "This post should [...]"
 header:
   overlay_image: /assets/images/unsplash-image-1.jpg
@@ -7,4 +9,3 @@ header:
   actions:
     - label: "More Info"
       url: "https://unsplash.com"
----
