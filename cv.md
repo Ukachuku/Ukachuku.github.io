@@ -3,5 +3,5 @@ layout: default
 header:
   overlay_image: /assets/header.jpg
 ---
-# Latest CVV
+# Latest CV
 ![professional photo]({{ site.url }}/assets/professionalphoto.png)
