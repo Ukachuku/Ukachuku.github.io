@@ -6,5 +6,5 @@ comments: true
 header:
   overlay_image: header.jpg
 ---
-# Latest CV
+# Latest CVV
 ![professional photo]({{ site.url }}/assets/professionalphoto.png)
