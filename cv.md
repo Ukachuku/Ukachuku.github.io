@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Modularity in LaTeX
-excerpt: blarg
+excerpt: File organization and macros enabling modular design in LaTeX
+comments: true
 header:
-  overlay_image: /assets/header.png
-  
+  overlay_image: header.png
 ---
 # Latest CV
